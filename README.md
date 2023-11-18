@@ -64,3 +64,11 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am4tya&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
+
+<div align="center">
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ to my R𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
