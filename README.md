@@ -2,7 +2,7 @@
 
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
-<h3 align="center">A passionate CS student from Nepal.</h3>
+<h3 align="center">I'm Sahil. i am passionate about creating intuitive and visually appealing websites and software that make positive impact on users. Through my studies in software development, I have been learning the technical skills required to build responsive and engaging web experiences, and I am always eager to expand my knowledge and stay up-to-date with latest trends in Technology.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
