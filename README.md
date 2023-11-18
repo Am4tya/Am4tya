@@ -8,7 +8,8 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=am4tya&label=Profile%20views&color=0e75b6&style=flat" alt="am4tya" /> 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/am4tya?label=Followers&style=social"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/am4tya?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/Am4tya?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=am4tya" alt="am4tya" /></a> </p>
