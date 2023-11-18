@@ -50,9 +50,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img height="150" width="150" src="https://github.com/Am4tya/Am4tya/blob/main/Images/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Am4tya&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+    <img height="150" width="150" src="https://github.com/Am4tya/Am4tya/blob/main/Images/right.png">
   </a>
 </p>
 
