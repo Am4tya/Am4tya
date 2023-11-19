@@ -71,4 +71,4 @@
 
 </div>
 
-![footer](https://github.com/Am4tya/Am4tya/blob/main/Images/footer.png)
+![footer](https://github.com/Am4tya/Am4tya/blob/main/Images/footer.png) 
