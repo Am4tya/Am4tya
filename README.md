@@ -51,7 +51,7 @@
 <p align="center">
   <a>
     <img height="150" width="150" src="https://github.com/Am4tya/Am4tya/blob/main/Images/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Am4tya&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Am4tya&theme=dark&hide_border=false"/>
     <img height="150" width="150" src="https://github.com/Am4tya/Am4tya/blob/main/Images/right.png">
   </a>
 </p>
