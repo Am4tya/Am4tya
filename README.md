@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amatyasahil34@gmail.com**
 
-- ⚡ Fact **I like coffee**
+- ⚡ Fact **I like Drinks & Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
